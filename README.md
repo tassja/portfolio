@@ -7,7 +7,6 @@ Hey, welcome to my GitHub! Find selected pieces of work below.
 Complex refactor
 
 * [Introduced abstract factory method to allow downloads from different websites](https://github.com/PlaceOS/frontend-loader/pull/47/files#diff-db9f584a03fd5066b681d012cd07cc0f4fd517c20f7990497aafaa7e09d37212)
-
 * [Complete testing for added functionality](https://github.com/PlaceOS/frontend-loader/pull/47/files#diff-e01161a27379381b8430064b4a036e93889ef3afede0f5a315843d86145d314c)
 
 Improved API security
